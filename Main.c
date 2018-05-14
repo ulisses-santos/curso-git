@@ -75,6 +75,7 @@ static void interrupt isr (void)
     /*
      * Variaveis locais
      */
+	BYTE auxByte1;
     BYTE auxISR;
     BYTE auxByteEntradaSerial;
     
